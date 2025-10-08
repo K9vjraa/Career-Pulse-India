@@ -440,7 +440,7 @@ async def initialize_roadmaps():
             ]
         },
         
-        // Arts Stream
+        # Arts Stream
         {
             "title": "Teacher",
             "stream": "Arts",
