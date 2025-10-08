@@ -1,0 +1,13 @@
+diff --git a/backend/server.py b/backend/server.py
+index 9722cdb..d7f1f71 100644
+--- a/backend/server.py
++++ b/backend/server.py
+@@ -440,7 +440,7 @@ async def initialize_roadmaps():
+             ]
+         },
+         
+-        // Arts Stream
++        # Arts Stream
+         {
+             "title": "Teacher",
+             "stream": "Arts",
